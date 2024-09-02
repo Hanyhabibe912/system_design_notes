@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=XZbvQWkpJTI&t=207s
 
 ---------------------------------------------------------------------------
 	1- systems design crash course
-https://youtu.be/MbjObHmDbZoDesign    duration   1:40:00
+https://youtu.be/MbjObHmDbZoDesign      1:40:00
 
 	2- interview concepts 
 https://youtu.be/REB_eGHK_P4Database                    11:04:00
